@@ -1,0 +1,30 @@
+.cab{
+    width: 100%;
+    height: 80px;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+}
+.cue{
+    width: 60%;
+    height: 700px;
+    background-color: green;
+    float: left;
+}
+.art{
+    width: 30%;
+    height: 210px;
+    background-color: black;
+}
+.pub{
+    width: 40%;
+    height: 700px;
+    background-color: yellow;
+    float: left;
+}
+.pie{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    float: left;
+}
